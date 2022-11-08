@@ -7,7 +7,7 @@
 
 ## Was sind Wir?
 <br>
-- Wir sind Ein [Leitstellenspiel](https://leitstellenspiel.de) Verband
+- Wir sind Ein [Leitstellenspiel](leitstellenspiel.de) Verband
 - mit 1 Member Bin so einsam
 
 ## Section 2
@@ -19,4 +19,4 @@ blah
 
 ## Ende
 
-(Zurück_nach_Oben)[#Was-sind-Wir]
+[Zurück nach Oben](#was-sind-wir)
