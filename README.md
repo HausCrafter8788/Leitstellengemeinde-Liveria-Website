@@ -1,14 +1,9 @@
 # Leitstellengem. Liveria Website
 
-|Vorscchläge|In Arbeit|Volendet|
-|--------------------|--------------------|--------------------|
-|None|Alles|None|
-
-
 ## Was sind Wir?
 <br>
-- Wir sind Ein [Leitstellenspiel](leitstellenspiel.de) Verband
-- mit 1 Member Bin so einsam
+- Wir sind Ein <a href="https://leitstellenspiel.de">Leitstellenspiel</a> Verband
+- 
 
 ## Section 2
 blah
